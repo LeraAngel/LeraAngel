@@ -1,6 +1,11 @@
 <h2> Hi, I'm Valeriia Komarova! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThic2t0cTFkc2hsanh5OHFobHB6NjRuNjhneHhidTdlMXQ4djdkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OQYqPnjy0mOU1ZGlzm/giphy.gif" width="50"> A little more about me...  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Angel0k_L)
+[![GitHub LeraAngel](https://img.shields.io/github/followers/LeraAngel?label=follow&style=social)](https://github.com/LeraAngel)
+
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tlMXcycnRlbnNkMnlpMHJsYWJuZ2ZkMThkMWIxNWszODRxaDQzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfAfdLubIb63UUwfBH/giphy.gif" width="40"> A little more about me...  
+
 
 
 ---
