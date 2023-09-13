@@ -10,7 +10,7 @@
 ```javascript
 const lera = {
   pronouns: "she" | "her",
-  code: [C++, C#, Python],
+  code: [C++, C#, Python, Dart],
   tools: [UnrealEngine, Unity, React],
   education: "Master's degree from the Far Eastern Federal University, specializing in game programming and digital entertainment"
 }
