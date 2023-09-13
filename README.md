@@ -6,18 +6,16 @@
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tlMXcycnRlbnNkMnlpMHJsYWJuZ2ZkMThkMWIxNWszODRxaDQzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfAfdLubIb63UUwfBH/giphy.gif" width="40"> A little more about me...  
 
+```javascript
+const lera = {
+  pronouns: "she" | "her",
+  code: [C++, C#, Python],
+  tools: [UnrealEngine, Unity, React],
 
+}
+```
 
 ---
-### Languages and tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title="unity" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" title="c++" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" title="c#" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-
 
 ### My stat
 
